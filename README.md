@@ -18,7 +18,7 @@
 
 ###
 <br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/Garv0504/Garv0504/output/snake.svg" alt="Snake Animation"/>
 
 ###
 

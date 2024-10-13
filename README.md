@@ -16,6 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=garv0504&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
 
 
+[![An image of @garv0504's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/garv0504)](https://holopin.io/@garv0504)
 ###
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Garv0504/Garv0504/output/snake.svg" alt="Snake Animation"/>
